@@ -1,0 +1,109 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #f9f9f9;
+  color: #333;
+  font-family: 'Segoe UI', 'Inter', sans-serif;
+  box-sizing: border-box;
+}
+
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  width: 100%;
+  padding: 2rem 1rem;
+  background-color: #f9f9f9;
+}
+
+form {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  border: 1px solid #eee;
+}
+
+label {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #444;
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"] {
+  background-color: #fffdfb;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 0.6rem 0.8rem;
+  color: #333;
+  font-size: 1rem;
+  transition: border-color 0.2s ease;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: #ff9800;
+  background-color: #fff8f2;
+}
+
+small {
+  color: #e53935;
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+}
+
+button {
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  padding: 0.7rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:disabled {
+  background-color: #ffc171;
+  cursor: not-allowed;
+}
+
+button:hover:enabled {
+  background-color: #f57c00;
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+  color: #555;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+  width: 100%;
+  max-width: 420px;
+}
+
+ul li {
+  background-color: #e4b467;
+  color: #e65100;
+  padding: 0.6rem 1rem;
+  margin-bottom: 0.5rem;
+  border-left: 4px solid #fb8c00;
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 0.95rem;
+}

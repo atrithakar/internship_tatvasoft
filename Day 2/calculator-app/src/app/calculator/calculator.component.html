@@ -1,0 +1,34 @@
+<form [formGroup]="calcForm" (ngSubmit)="calculate()">
+  <label>
+    First Number:
+    <input type="text" formControlName="num1">
+  </label>
+  <div *ngIf="calcForm.get('num1')?.touched && calcForm.get('num1')?.invalid">
+    <small>Enter a valid number</small>
+  </div>
+
+  <label>
+    Operator (+, -, *, /):
+    <input type="text" formControlName="operator">
+  </label>
+  <div *ngIf="calcForm.get('operator')?.touched && calcForm.get('operator')?.invalid">
+    <small>Only +, -, *, / allowed</small>
+  </div>
+
+  <label>
+    Second Number:
+    <input type="text" formControlName="num2">
+  </label>
+  <div *ngIf="calcForm.get('num2')?.touched && calcForm.get('num2')?.invalid">
+    <small>Enter a valid number</small>
+  </div>
+
+  <button type="submit" [disabled]="calcForm.invalid">Calculate</button>
+</form>
+
+<hr>
+
+<h3>Previous Results:</h3>
+<ul>
+  <li *ngFor="let entry of history">{{ entry }}</li>
+</ul>
