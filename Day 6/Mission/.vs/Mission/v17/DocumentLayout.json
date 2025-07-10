@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -131,18 +131,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IMissionSkillRepository.cs",
-              "DocumentMoniker": "C:\\work_of_atri\\Tatvasoft Internship\\Day 6\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
-              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
-              "ToolTip": "C:\\work_of_atri\\Tatvasoft Internship\\Day 6\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
-              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:28:29.077Z"
             },
             {
               "$type": "Document",
@@ -178,8 +166,7 @@
               "RelativeToolTip": "Mission\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T06:28:05.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T06:28:05.176Z"
             },
             {
               "$type": "Document",
@@ -203,8 +190,7 @@
               "RelativeToolTip": "Mission\\Controllers\\MissionSkillController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwEQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:41:56.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:41:56.384Z"
             },
             {
               "$type": "Document",
@@ -250,10 +236,22 @@
               "RelativeDocumentMoniker": "Mission.Entities\\Context\\MissionDbContext.cs",
               "ToolTip": "C:\\work_of_atri\\Tatvasoft Internship\\Day 6\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
               "RelativeToolTip": "Mission.Entities\\Context\\MissionDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T06:14:19.062Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMissionSkillRepository.cs",
+              "DocumentMoniker": "C:\\work_of_atri\\Tatvasoft Internship\\Day 6\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "ToolTip": "C:\\work_of_atri\\Tatvasoft Internship\\Day 6\\Mission\\Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionSkillRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:28:29.077Z"
             },
             {
               "$type": "Document",
@@ -265,8 +263,7 @@
               "RelativeToolTip": "Mission.Entities\\Migrations\\20250709064414_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:44:15.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:44:15.276Z"
             },
             {
               "$type": "Document",
@@ -278,8 +275,7 @@
               "RelativeToolTip": "Mission\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-09T06:44:37.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:44:37.902Z"
             },
             {
               "$type": "Document",
