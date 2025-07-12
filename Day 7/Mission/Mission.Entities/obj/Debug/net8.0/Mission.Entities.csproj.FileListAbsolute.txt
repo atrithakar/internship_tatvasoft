@@ -1,0 +1,15 @@
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+C:\work_of_atri\Tatvasoft Internship\Day 6\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
